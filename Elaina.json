@@ -1,5 +1,5 @@
 {
-    "name": "Elaina",
+    "name": "Elaina Theme",
     "description": "Super dark mode but with Elaina backgroud (≧◡≦)",
     "version": "v1.0.4",
     "authors": [
@@ -8,14 +8,16 @@
             "id": "Who know"
         }
     ],
+
     "/__Note__/": "Sech Elaina tan bao",
+    "So...Can we add video as Background ?": "",
 
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#2F3135"
+            "#507dfc"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -23,9 +25,9 @@
         "TEXT_MUTED": [
             "#ffffffa9"
         ],
-
-
-
+        "TEXT_DANGER": [
+            "#507dfc"
+        ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
         ],
@@ -39,16 +41,16 @@
             "#0000003d"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0000006c"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#0000006c"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#2F3135"
+            "#507dfc"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -69,7 +71,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2F3135"
+            "#507dfc"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#0000003d"
@@ -89,37 +91,39 @@
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
         ],
-
-
-
+        "TEXT_LINK": [
+            "#507dfc"
+        ],
         "CHANNEL_ICON": [
             "#ffffff"
         ]
     },
+
     "rawColors": {
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#2F3135",
-        "PRIMARY_500": "#2F3135",
+        "PRIMARY_360": "#507dfc",
+        "PRIMARY_500": "#507dfc",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "BRAND_260": "#2F3135",
-        "BRAND_360": "#2F3135",
-        "BRAND_500": "#2F3135",
+        "BRAND_260": "#507dfc",
+        "BRAND_360": "#507dfc",
+        "BRAND_500": "#507dfc",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#2F3135",
-        "YELLOW_300": "#2F3135",
-        "ORANGE_345": "#2F3135",
-        "GREEN_345": "#2F3135",
-        "GREEN_360": "#2F3135",
-        "RED_560" : "#2F3135",
-        "RED_400": "#2F3135"
+        "BLUE_345": "#507dfc",
+        "YELLOW_300": "#507dfc",
+        "ORANGE_345": "#507dfc",
+        "GREEN_345": "#507dfc",
+        "GREEN_360": "#507dfc",
+        "RED_560" : "#507dfc",
+        "RED_400": "#507dfc"
     },
+
     "spec": 2,
     "background": {
         "url": "https://i.imgur.com/PKj2Sp7.jpg",
