@@ -21,7 +21,7 @@
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#2F3135"
+            "#ffffffa9"
         ],
         "TEXT_DANGER": [
             "#2F3135"
@@ -36,10 +36,10 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#0000003d"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#0000006c"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
