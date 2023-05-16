@@ -1,12 +1,15 @@
 {
     "name": "Elaina",
-    "description": "",
+    "description": "Super dark mode but with Elaina backgroud (≧◡≦)",
+    "version": "v1.0.4",
     "authors": [
         {
             "name": "Elaina Da Catto",
             "id": "Who know"
         }
     ],
+    "/__Note__/": "Sech Elaina tan bao",
+
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#ffffff"
@@ -33,46 +36,46 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_SECONDARY": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_TERTIARY": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_ACCENT": [
             "#2F3135"
         ],
         "BACKGROUND_FLOATING": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_MENTIONED": [
             "#0D126165"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "transparent"
+            "#0000003d"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#2F3135"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent"
+            "#0000003d"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "transparent"
+            "#0000003d"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -81,7 +84,7 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "transparent"
+            "#0000003d3d"
         ],
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
@@ -99,11 +102,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#2F3135",
         "PRIMARY_500": "#2F3135",
-        "PRIMARY_600": "transparent",
-        "PRIMARY_630": "transparent",
-        "PRIMARY_660": "transparent",
-        "PRIMARY_700": "transparent",
-        "PRIMARY_800": "transparent",
+        "PRIMARY_600": "#0000003d",
+        "PRIMARY_630": "#0000003d",
+        "PRIMARY_660": "#0000003d",
+        "PRIMARY_700": "#0000003d",
+        "PRIMARY_800": "#0000003d",
         "BRAND_260": "#2F3135",
         "BRAND_360": "#2F3135",
         "BRAND_500": "#2F3135",
@@ -119,9 +122,9 @@
     },
     "spec": 2,
     "background": {
-        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCity/bg.gif",
+        "url": "https://i.imgur.com/PKj2Sp7.jpg",
         "alpha": 0.5,
-        "color": "transparent"
+        "color": "#0000003d"
     }
 }
 
