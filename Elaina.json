@@ -23,9 +23,9 @@
         "TEXT_MUTED": [
             "#ffffffa9"
         ],
-        "TEXT_DANGER": [
-            "#2F3135"
-        ],
+
+
+
         "INTERACTIVE_NORMAL": [
             "#ffffff"
         ],
@@ -89,9 +89,9 @@
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
         ],
-        "TEXT_LINK": [
-            "#4c7f90"
-        ],
+
+
+
         "CHANNEL_ICON": [
             "#ffffff"
         ]
